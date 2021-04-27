@@ -10,6 +10,7 @@ public class Teste {
         WebDriver navegador = new ChromeDriver();
 
         navegador.get("https://www.facebook.com/");
+        navegador.get("https://www.facebook.com/");
 
     }
 }

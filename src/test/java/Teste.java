@@ -9,7 +9,7 @@ public class Teste {
         WebDriverManager.chromedriver().setup();
         WebDriver navegador = new ChromeDriver();
 
-        navegador.get("https://www.google.com/");
+        navegador.get("https://www.facebook.com/");
 
     }
 }
